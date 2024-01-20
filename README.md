@@ -1,3 +1,4 @@
+![logo](https://github.com/Amba1ukam/Its_Dreamy/commit/71b81d07aec08f839c7cab9592ecc412f8f29388)
 <h1 align="center">Hi 👋, I'm Adel Yassin Gumama</h1>
 <h3 align="center">🙍‍♂️ A Student</h3>
 
